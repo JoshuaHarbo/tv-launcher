@@ -1,0 +1,21 @@
+# Build output
+.gradle/
+build/
+app/build/
+*.apk
+.idea/
+.DS_Store
+
+# Personal config and TV data (never commit)
+local.properties
+adb-devices.txt
+packages-*.txt
+stock-home.txt
+*.log
+
+# Working screenshots and frames
+screenshots/home-*.png
+screenshots/wipe-*.png
+
+# Fonts are downloaded by fetch-fonts.sh (SIL OFL)
+app/src/main/res/font/

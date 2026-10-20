@@ -1,0 +1,5 @@
+# Copy to local.properties (gitignored) and edit. build-and-install.sh adds sdk.dir for you.
+tv.ip=192.168.1.50:5555
+tv.lat=34.05
+tv.lon=-118.24
+tv.label=LOS ANGELES
